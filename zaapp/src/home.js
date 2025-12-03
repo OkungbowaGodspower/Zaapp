@@ -219,7 +219,7 @@ function Home() {
             <h3 className="heading-tertiary">Loans</h3>
             <p className="step-description">
               Get up to ₦10,000,000 in your account easily and repay in
-              convenient installments.
+              convenient instalments.
             </p>
           </div>
         </div>
@@ -441,7 +441,7 @@ function Home() {
 
             <ul className="social-links">
               <li>
-                <a href="/" className="footer-link" title="Instagram">
+                <a href="https://www.instagram.com/ml_geepee/" className="footer-link" title="Instagram">
                   <ion-icon
                     name="logo-instagram"
                     className="social-icon"
@@ -449,15 +449,15 @@ function Home() {
                 </a>
               </li>
               <li>
-                <a href="/" className="footer-link" title="Facebook">
+                <a href="https://www.linkedin.com/in/okungbowagodspower" className="footer-link" title="Linkedin">
                   <ion-icon
-                    name="logo-facebook"
+                    name="logo-linkedin"
                     className="social-icon"
                   ></ion-icon>
                 </a>
               </li>
               <li>
-                <a href="/" className="footer-link" title="Twitter">
+                <a href="https://x.com/ml_geepee" className="footer-link" title="Twitter">
                   <ion-icon
                     name="logo-twitter"
                     className="social-icon"
@@ -486,12 +486,12 @@ function Home() {
             <address className="contacts">
               <p className="address">123 Geepee St. Lagos, Nigeria.</p>
               <p>
-                <a className="footer-link" href="tel:+2344196661234">
-                  +234 419 666 1234
+                <a className="footer-link" href="tel:+2349069900803">
+                  +234 906 990 0803
                 </a>
                 <br />
                 <a className="footer-link" href="mailto:hello@zaapp.com">
-                  hello@zaapp.com
+                  godspowerokungbowa0@gmail.com
                 </a>
               </p>
               <ul className="footer-nav">
